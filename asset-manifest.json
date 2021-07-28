@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/easy-money/static/css/main.e4eb24a7.chunk.css",
+    "main.js": "/easy-money/static/js/main.281cbdbb.chunk.js",
+    "main.js.map": "/easy-money/static/js/main.281cbdbb.chunk.js.map",
+    "runtime-main.js": "/easy-money/static/js/runtime-main.b4201925.js",
+    "runtime-main.js.map": "/easy-money/static/js/runtime-main.b4201925.js.map",
+    "static/css/2.fdb32a1e.chunk.css": "/easy-money/static/css/2.fdb32a1e.chunk.css",
+    "static/js/2.c813a7be.chunk.js": "/easy-money/static/js/2.c813a7be.chunk.js",
+    "static/js/2.c813a7be.chunk.js.map": "/easy-money/static/js/2.c813a7be.chunk.js.map",
+    "index.html": "/easy-money/index.html",
+    "static/css/2.fdb32a1e.chunk.css.map": "/easy-money/static/css/2.fdb32a1e.chunk.css.map",
+    "static/css/main.e4eb24a7.chunk.css.map": "/easy-money/static/css/main.e4eb24a7.chunk.css.map",
+    "static/js/2.c813a7be.chunk.js.LICENSE.txt": "/easy-money/static/js/2.c813a7be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4201925.js",
+    "static/css/2.fdb32a1e.chunk.css",
+    "static/js/2.c813a7be.chunk.js",
+    "static/css/main.e4eb24a7.chunk.css",
+    "static/js/main.281cbdbb.chunk.js"
+  ]
+}
